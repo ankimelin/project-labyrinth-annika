@@ -1,4 +1,4 @@
-# Project descrption
+# Project description
 
 # The problem
 
