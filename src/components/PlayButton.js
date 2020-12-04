@@ -7,7 +7,7 @@ import { startGame } from '../reducers/thunks'
 const StartButton = styled.button`
   width: 200px;
   height: 100px;
-  margin-top: 250px;
+  margin-top: 20px;
   padding: 10px;
   border: none;
   border-radius: 20px;

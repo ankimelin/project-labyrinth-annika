@@ -1,6 +1,6 @@
 import React from 'react'
 import { useSelector } from 'react-redux'
-import styled from 'styled-components'
+import styled from 'styled-components/macro'
 
 import { PlayButton } from './PlayButton'
 import { Loader } from './Loader'
@@ -11,15 +11,15 @@ const MainContainer = styled.div`
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  height: 100%;
-  margin: 30px;
+  height: 100vh;
+  margin: 0 20px;
 
   @media (min-width: 768px) and (max-width: 1023px) {
-    margin: 160px;
+    padding: 0 200px;
   }
 
   @media (min-width: 1024px) {
-    margin: 150px 300px;
+    padding: 0 300px;
   }
 `
 

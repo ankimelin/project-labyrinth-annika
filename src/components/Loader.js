@@ -3,7 +3,7 @@ import styled from 'styled-components'
 
 const LoaderText = styled.p`
   margin: 0;
-  margin-top: 250px;
+  padding-top: 20px;
   font-size: 30px;
  `
 

@@ -10,7 +10,8 @@ const RoomContainer = styled.div`
 
 const RoomDescription = styled.p`
   margin: 0;
-  font-size: 24px;
+  margin-bottom: 20px;
+  font-size: 22px;
 `
 
 const ActionContainer = styled.div`
