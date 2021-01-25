@@ -7,4 +7,4 @@ Started analyzing the game requirements and what the backend API provided using 
 Next step if revisiting: implement user input for user name, and using reusable components for all buttons.
 
 # View it live
-https://fervent-swirles-251c59.netlify.app/
+https://labyrinth-annika.netlify.app/
